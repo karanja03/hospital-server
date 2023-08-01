@@ -27,7 +27,7 @@
       {
           "id":3,
           "name":"Mater Hospital",
-          "region":"RiftValley Regon",
+          "region":"RiftValley Region",
           "department":"Physiotherapy",
           "description":"The Hospital in accordance with the philosophy of the Sisters of Mercy aims to reach out to all members of the community irrespective of race, colour or creed, to continue the healing ministry of the church and preserve the heritage of the Sisters of Mercy. As a non-profit institution the hospital seeks to provide the most modern facilities and health care to satisfy the needs of all the community by re-investing any surplus into the continuing mission of the Sisters of Mercy.",
           "image":"https://onedaktari.com/wp-content/uploads/2023/05/mater-hospital-entrance.png",
@@ -39,7 +39,7 @@
       {
           "id":4,
           "name":"Karen Hospital",
-          "region":"RiftValley Regon",
+          "region":"RiftValley Region",
           "department":"Plastic and Cosmetic Surgery",
           "description":"The Karen Hospital is a 102 bed multispeciality Hospital in Kenya LOcated in Karen.WE offer patient focused, world class medical treatment and accord the highest standars of medical care to all our patients indiscriminately ",
           "image":"https://mumsvillage.com/wp-content/uploads/2015/03/The-Karen-Hospital.jpg",
