@@ -10,7 +10,7 @@
           "county":"Nairobi",
           "type":"Private",
           "phoneno":"+254-730-011-888",
-          "email address":"akuh.nairobi@aku.edu"
+          "emailaddress":"akuh.nairobi@aku.edu"
       },
       {
           "id":2,
@@ -22,7 +22,7 @@
           "county":"Nairobi",
           "type":"Private",
           "phoneno":"0-732-341-241/0-773-686-007",
-          "email address":"info@coptichospitals.org"
+          "emailaddress":"info@coptichospitals.org"
       },
       {
           "id":3,
@@ -34,7 +34,7 @@
           "county":"Naivasha",
           "type":"Private",
           "phoneno":"0719073000",
-          "email address":" inform@materkenya.com"
+          "emailaddress":" inform@materkenya.com"
       },
       {
           "id":4,
@@ -46,7 +46,7 @@
           "county":"Fly Over",
           "type":"private",
           "phoneno":"0-726-222-002",
-          "email address":"info@karenhospital.org"
+          "emailaddress":"info@karenhospital.org"
       },
       {
           "id":5,
@@ -58,7 +58,7 @@
           "county":"Mombasa",
           "type":"Private",
           "phoneno":"07-111-000-600",
-          "email address":" info@mpshahhospital.org"
+          "emailaddress":" info@mpshahhospital.org"
       },
       {
           "id":6,
@@ -70,7 +70,7 @@
           "county":"Kilifi",
           "type":"Private",
           "phoneno":" 0703 082000",
-          "email address":"hosp@nbihosp.org"
+          "emailaddress":"hosp@nbihosp.org"
       }
       
       
