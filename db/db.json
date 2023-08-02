@@ -67,12 +67,85 @@
           "department":"Cancer Care",
           "description":"The Nairobi Hospital is a non-profit organization that is leading in medical expertise and service provision, with deservedly earned recognition throughout East Africa and beyond as an advanced diagnostic, treatment and referral centre. Investment in the latest technology and medical equipment has seen us establish leadership in medical procedures both in Kenya and beyond. ",
           "image":"https://ocdn.eu/images/pulscms/YTg7MDA_/3a718e9c88de47e490d65c531d9f4602.jpg",
-          "county":"Kilifi",
+          "county":"Kiambu",
           "type":"Private",
           "phoneno":" 0703 082000",
           "emailaddress":"hosp@nbihosp.org"
-      }
+      },
+      {
+        "id":7,
+        "name":"The Kenyatta Hospital",
+        "region":"Central Region",
+        "department":"Oncology Department",
+        "description":"The Nairobi Hospital is a non-profit organization that is leading in medical expertise and service provision, with deservedly earned recognition throughout East Africa and beyond as an advanced diagnostic, treatment and referral centre. Investment in the latest technology and medical equipment has seen us establish leadership in medical procedures both in Kenya and beyond. ",
+        "image":"https://ocdn.eu/images/pulscms/YTg7MDA_/3a718e9c88de47e490d65c531d9f4602.jpg",
+        "county":"Kajiado",
+        "type":"Public",
+        "phoneno":" 0703-112300",
+        "emailaddress":"knh.hospital.org"
+    },
+
+    {
+        "id":8,
+        "name":"The Getrude Hospital",
+        "region":"RiftValley Region",
+        "department":" Paediatric Department",
+        "description":"The Nairobi Hospital is a non-profit organization that is leading in medical expertise and service provision, with deservedly earned recognition throughout East Africa and beyond as an advanced diagnostic, treatment and referral centre. Investment in the latest technology and medical equipment has seen us establish leadership in medical procedures both in Kenya and beyond. ",
+        "image":"https://ocdn.eu/images/pulscms/YTg7MDA_/3a718e9c88de47e490d65c531d9f4602.jpg",
+        "county":"Nakuru",
+        "type":"Private",
+        "phoneno":" 0703-373729",
+        "emailaddress":"thegetrudehosp.org"
+    },
+    {
+        "id":9,
+        "name":"Nazareth Hospital",
+        "region":"RiftValley Region",
+        "department":" Reno Department",
+        "description":"The Nairobi Hospital is a non-profit organization that is leading in medical expertise and service provision, with deservedly earned recognition throughout East Africa and beyond as an advanced diagnostic, treatment and referral centre. Investment in the latest technology and medical equipment has seen us establish leadership in medical procedures both in Kenya and beyond. ",
+        "image":"https://ocdn.eu/images/pulscms/YTg7MDA_/3a718e9c88de47e490d65c531d9f4602.jpg",
+        "county":"Kericho",
+        "type":"Public",
+        "phoneno":" 0747-438-494",
+        "emailaddress":"nazhosp34@yahoo.com"
+    },
+
+    {
+        "id":10,
+        "name":"The Pendo Hospital",
+        "region":"Coastal Region",
+        "department":" Dental Department",
+        "description":"The Nairobi Hospital is a non-profit organization that is leading in medical expertise and service provision, with deservedly earned recognition throughout East Africa and beyond as an advanced diagnostic, treatment and referral centre. Investment in the latest technology and medical equipment has seen us establish leadership in medical procedures both in Kenya and beyond. ",
+        "image":"https://ocdn.eu/images/pulscms/YTg7MDA_/3a718e9c88de47e490d65c531d9f4602.jpg",
+        "county":"Kilifi",
+        "type":"Private",
+        "phoneno":" 0724-252-672",
+        "emailaddress":"pendoservices@gmail.com"
+    },
       
-      
+    {
+        "id":11,
+        "name":"The Getrude Hospital",
+        "region":"RiftValley Region",
+        "department":" Optical Department",
+        "description":"The Nairobi Hospital is a non-profit organization that is leading in medical expertise and service provision, with deservedly earned recognition throughout East Africa and beyond as an advanced diagnostic, treatment and referral centre. Investment in the latest technology and medical equipment has seen us establish leadership in medical procedures both in Kenya and beyond. ",
+        "image":"https://ocdn.eu/images/pulscms/YTg7MDA_/3a718e9c88de47e490d65c531d9f4602.jpg",
+        "county":"Nakuru",
+        "type":"Private",
+        "phoneno":" 0703-373729",
+        "emailaddress":"thegetrudehosp.org"
+    },
+    {
+        "id":12,
+        "name":"St.Maria Hospital",
+        "region":"Coastal Region",
+        "department":" Reno Department",
+        "description":"The Nairobi Hospital is a non-profit organization that is leading in medical expertise and service provision, with deservedly earned recognition throughout East Africa and beyond as an advanced diagnostic, treatment and referral centre. Investment in the latest technology and medical equipment has seen us establish leadership in medical procedures both in Kenya and beyond. ",
+        "image":"https://ocdn.eu/images/pulscms/YTg7MDA_/3a718e9c88de47e490d65c531d9f4602.jpg",
+        "county":"Nakuru",
+        "type":"Public",
+        "phoneno":" 0747-555-667",
+        "emailaddress":"thestmariahospital.org"
+    }
   ]
 }
