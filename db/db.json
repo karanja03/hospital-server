@@ -180,8 +180,7 @@
   "newsLetter":[
     {
         "id":1,
-        "fname": "",
-        "lname": "",
+        "name": "",
         "email":""
 
     }
