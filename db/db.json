@@ -175,5 +175,15 @@
         "speciality": "",
         "issue": ""
     }
+  ],
+
+  "newsLetter":[
+    {
+        "id":1,
+        "fname": "",
+        "lname": "",
+        "email":""
+
+    }
   ]
 }
